@@ -26,8 +26,6 @@
             <a target='_blank' href="https://github.com/RushiGhuge">
                 <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github" />
             </a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,7 +46,7 @@
             <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RushiGhuge&&theme=xcode)](https://github.com/RushiGhuge)
+[![Rushi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RushiGhuge&&theme=xcode)](https://github.com/RushiGhuge)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RushiGhuge&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RushiGhuge" /></p>
 
