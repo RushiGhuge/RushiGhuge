@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **Youtube Clone**
+- 🔭 I’m currently working on **E-Commerce**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Node Js**
 
-- 💬 Ask me about **HTML ,CSS , JS**
+- 💬 Ask me about **HTML ,CSS , JS, React.js, Tailwind CSS**
 
 - 📫 How to reach me **rushikeshghuge993@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
