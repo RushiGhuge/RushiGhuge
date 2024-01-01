@@ -4,11 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
-
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **E-Commerce Web App**
 
 - 🌱 I’m currently learning **Node Js**
 
@@ -20,12 +17,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a target='_blank' href="https://www.linkedin.com/in/rushikeshghuge/">
+                <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" />
+            </a>
+            <a target='_blank' href="https://rushighuge.github.io/portfolio/">
+                <img width="48" height="48" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio" />
+            </a>
+            <a target='_blank' href="https://github.com/RushiGhuge">
+                <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github" />
+            </a>
 
-<a href="www.linkedin.com/in/rushikeshghuge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />LINKEDIN</a>
-
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 
 </p>
 
