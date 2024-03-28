@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Rushikesh Ghuge</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-- 🔭 I’m currently working on **E-Commerce Web App**
+- 🔭 I’m currently working in **ISchoolConnect**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Nest Js**
 
-- 💬 Ask me about **HTML ,CSS , JS, Java, React.js, Tailwind CSS**
+- 💬 Ask me about **HTML ,CSS , JS, Java, React.js, Angular, Node.js, Nest.js, MongoDB, Sql, Scsss, Tailwind CSS**
 
 - 📫 How to reach me **rushikeshghuge993@gmail.com**
 
