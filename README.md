@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working in **ISchoolConnect**
+- 🔭 I am currently working at **ISchoolConnect**
 
 - 🌱 I’m currently learning **Nest Js**
 
-- 💬 Ask me about **HTML ,CSS , JS, Java, React.js, Angular, Node.js, Nest.js, MongoDB, Sql, Scsss, Tailwind CSS**
+- 💬 Ask me about **HTML ,CSS , JS, Java, React.js, Angular, Node.js, Nest.js, MongoDB, Sql, Scss, Tailwind CSS**
 
 - 📫 How to reach me **rushikeshghuge993@gmail.com**
 
@@ -34,16 +34,20 @@
             <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
             <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
             <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
+            <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
             <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
             <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
             <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-            <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
             <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+            <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
+            <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
             <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
             <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
             <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
             <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
             <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+    
 </p>
 
 [![Rushi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RushiGhuge&&theme=xcode)](https://github.com/RushiGhuge)
